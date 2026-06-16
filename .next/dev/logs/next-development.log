@@ -100,3 +100,71 @@
 {"timestamp":"00:59:24.666","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\" \"\\u001b[2m(file://C:/Users/other/AppData/Local/Programs/Microsoft VS Code/nexa-talent-hub/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)\\u001b[22m\""}
 {"timestamp":"00:59:24.666","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\u001b[39m"}
 {"timestamp":"00:59:24.667","source":"Browser","level":"WARN","message":"Image with src \"https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=500&auto=format&fit=crop\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"01:57:39.884","source":"Server","level":"LOG","message":"✓ Compiled in 238ms"}
+{"timestamp":"01:57:51.881","source":"Server","level":"LOG","message":"✓ Compiled in 298ms"}
+{"timestamp":"02:21:39.233","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-free.png\" \"received\" null"}
+{"timestamp":"02:21:39.235","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-vip.png\" \"received\" null"}
+{"timestamp":"02:21:39.241","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-top.png\" \"received\" null"}
+{"timestamp":"02:21:39.251","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-off.png\" \"received\" null"}
+{"timestamp":"02:28:17.805","source":"Server","level":"LOG","message":"✓ Compiled in 111ms"}
+{"timestamp":"02:28:22.669","source":"Server","level":"LOG","message":"✓ Compiled in 85ms"}
+{"timestamp":"02:36:32.571","source":"Server","level":"LOG","message":"✓ Compiled in 74ms"}
+{"timestamp":"02:37:52.717","source":"Server","level":"LOG","message":"✓ Compiled in 125ms"}
+{"timestamp":"02:38:29.894","source":"Server","level":"LOG","message":"✓ Compiled in 62ms"}
+{"timestamp":"02:38:35.193","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:38:35.648","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-off.png\" \"received\" null"}
+{"timestamp":"02:38:35.678","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-free.png\" \"received\" null"}
+{"timestamp":"02:38:35.680","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-top.png\" \"received\" null"}
+{"timestamp":"02:38:35.696","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-vip.png\" \"received\" null"}
+{"timestamp":"02:38:50.368","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:38:51.015","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-off.png\" \"received\" null"}
+{"timestamp":"02:38:51.103","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-free.png\" \"received\" null"}
+{"timestamp":"02:38:51.108","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-vip.png\" \"received\" null"}
+{"timestamp":"02:38:51.134","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-top.png\" \"received\" null"}
+{"timestamp":"02:41:34.146","source":"Server","level":"LOG","message":"✓ Compiled in 96ms"}
+{"timestamp":"02:42:49.964","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:42:50.082","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/promo-off.png\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\" \"\\u001b[2m(file://C:/Users/other/AppData/Local/Programs/Microsoft VS Code/nexa-talent-hub/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)\\u001b[22m\""}
+{"timestamp":"02:42:50.082","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"/images/promo-off.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\u001b[39m"}
+{"timestamp":"02:42:50.083","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/promo-free.png\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\" \"\\u001b[2m(file://C:/Users/other/AppData/Local/Programs/Microsoft VS Code/nexa-talent-hub/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)\\u001b[22m\""}
+{"timestamp":"02:42:50.083","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"/images/promo-free.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\u001b[39m"}
+{"timestamp":"02:42:50.083","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/promo-vip.png\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\" \"\\u001b[2m(file://C:/Users/other/AppData/Local/Programs/Microsoft VS Code/nexa-talent-hub/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)\\u001b[22m\""}
+{"timestamp":"02:42:50.084","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"/images/promo-vip.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\u001b[39m"}
+{"timestamp":"02:42:50.084","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/promo-top.png\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\" \"\\u001b[2m(file://C:/Users/other/AppData/Local/Programs/Microsoft VS Code/nexa-talent-hub/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)\\u001b[22m\""}
+{"timestamp":"02:42:50.084","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"/images/promo-top.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\u001b[39m"}
+{"timestamp":"02:42:50.084","source":"Browser","level":"WARN","message":"Image with src \"/images/promo-off.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"02:42:50.084","source":"Browser","level":"WARN","message":"Image with src \"/images/promo-free.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"02:42:50.084","source":"Browser","level":"WARN","message":"Image with src \"/images/promo-vip.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"02:42:50.084","source":"Browser","level":"WARN","message":"Image with src \"/images/promo-top.png\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"02:43:13.192","source":"Server","level":"LOG","message":"✓ Compiled in 69ms"}
+{"timestamp":"02:45:31.703","source":"Server","level":"LOG","message":"✓ Compiled in 126ms"}
+{"timestamp":"02:45:32.119","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-discount.png\" \"received\" null"}
+{"timestamp":"02:45:32.136","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/promo-consultation.png\" \"received\" null"}
+{"timestamp":"02:47:09.137","source":"Server","level":"LOG","message":"✓ Compiled in 81ms"}
+{"timestamp":"02:49:55.507","source":"Server","level":"LOG","message":"✓ Compiled in 73ms"}
+{"timestamp":"02:51:03.272","source":"Server","level":"LOG","message":"✓ Compiled in 71ms"}
+{"timestamp":"02:51:03.832","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: bgStyle is not defined"}
+{"timestamp":"02:51:20.781","source":"Server","level":"WARN","message":"⚠ Fast Refresh had to perform a full reload due to a runtime error."}
+{"timestamp":"02:51:21.169","source":"Server","level":"LOG","message":"✓ Compiled in 93ms"}
+{"timestamp":"02:51:21.679","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:51:42.093","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:51:43.368","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"02:51:53.959","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:03:17.560","source":"Server","level":"LOG","message":"✓ Compiled in 76ms"}
+{"timestamp":"03:03:17.790","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg.jpeg\" \"received\" null"}
+{"timestamp":"03:03:31.438","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg.jpeg\" \"received\" null"}
+{"timestamp":"03:03:31.546","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:03:33.083","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:03:33.112","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg.jpeg\" \"received\" null"}
+{"timestamp":"03:03:45.187","source":"Server","level":"LOG","message":"✓ Compiled in 82ms"}
+{"timestamp":"03:03:45.364","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg\" \"received\" null"}
+{"timestamp":"03:03:50.009","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg\" \"received\" null"}
+{"timestamp":"03:03:50.028","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:03:51.221","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg\" \"received\" null"}
+{"timestamp":"03:03:51.230","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:04:12.291","source":"Server","level":"LOG","message":"✓ Compiled in 65ms"}
+{"timestamp":"03:04:48.563","source":"Server","level":"LOG","message":"✓ Compiled in 194ms"}
+{"timestamp":"03:04:49.547","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg.jpeg\" \"received\" null"}
+{"timestamp":"03:04:53.718","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/celeb_img.jpg.jpeg\" \"received\" null"}
+{"timestamp":"03:04:53.792","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"03:05:51.472","source":"Server","level":"LOG","message":"✓ Compiled in 161ms"}
+{"timestamp":"03:06:33.387","source":"Server","level":"LOG","message":"✓ Compiled in 76ms"}

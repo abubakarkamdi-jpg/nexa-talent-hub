@@ -1,6 +1,8 @@
 'use client';
 
-export default function AnimatedPromo({ open, onClose }: { open: boolean; onClose: () => void }) {
+import Image from 'next/image';
+
+export default function AnimatedPromo({ open, onClose, bgImage }: { open: boolean; onClose: () => void; bgImage?: string }) {
   if (!open) return null;
 
   return (
@@ -17,7 +19,10 @@ export default function AnimatedPromo({ open, onClose }: { open: boolean; onClos
           ✕
         </button>
 
-        <div className="relative bg-gradient-to-r from-primary-600 via-purple-600 to-cyan-600 rounded-3xl p-8 md:p-12 overflow-hidden">
+         <div className="relative rounded-3xl p-8 md:p-12 overflow-hidden">
+           {bgImage && (
+             <Image src={bgImage} alt="Promotion banner" fill priority className="object-cover" />
+           )}
           <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2" />
           <div className="absolute bottom-0 left-0 w-48 h-48 bg-white/10 rounded-full translate-y-1/2 -translate-x-1/2" />
           <div className="relative grid md:grid-cols-2 gap-8 items-center">
@@ -53,10 +58,16 @@ export default function AnimatedPromo({ open, onClose }: { open: boolean; onClos
   );
 }
 
-function Benefit({ icon, title, subtitle }: { icon: string; title: string; subtitle: string }) {
+function Benefit({ icon, title, subtitle, imageSrc }: { icon: string; title: string; subtitle: string; imageSrc?: string }) {
   return (
     <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-5 text-center border border-white/20">
-      <div className="text-3xl mb-2">{icon}</div>
+      {imageSrc ? (
+        <div className="w-12 h-12 mx-auto mb-2 relative">
+          <Image src={imageSrc} alt={title} fill className="object-contain" />
+        </div>
+      ) : (
+        <div className="text-3xl mb-2">{icon}</div>
+      )}
       <div className="text-white font-bold text-lg">{title}</div>
       <div className="text-white/70 text-sm">{subtitle}</div>
     </div>

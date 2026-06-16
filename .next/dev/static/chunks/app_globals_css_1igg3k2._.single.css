@@ -759,6 +759,10 @@
     width: calc(var(--spacing) * 10);
   }
 
+  .w-12 {
+    width: calc(var(--spacing) * 12);
+  }
+
   .w-14 {
     width: calc(var(--spacing) * 14);
   }
@@ -1266,6 +1270,11 @@
 
   .bg-center {
     background-position: center;
+  }
+
+  .object-contain {
+    -o-object-fit: contain;
+    object-fit: contain;
   }
 
   .object-cover {

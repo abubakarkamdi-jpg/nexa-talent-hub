@@ -390,7 +390,11 @@ export default function Home() {
         </div>
       </section>
 
-      <AnimatedPromo open={promoOpen} onClose={() => setPromoOpen(false)} />
+   <AnimatedPromo 
+  open={promoOpen} 
+  onClose={() => setPromoOpen(false)} 
+  bgImage="/images/celeb_img.jpg.png"
+/>
 
       <section id="vendors" className="py-20 bg-slate-900/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
