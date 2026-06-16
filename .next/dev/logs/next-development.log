@@ -168,3 +168,10 @@
 {"timestamp":"03:04:53.792","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
 {"timestamp":"03:05:51.472","source":"Server","level":"LOG","message":"✓ Compiled in 161ms"}
 {"timestamp":"03:06:33.387","source":"Server","level":"LOG","message":"✓ Compiled in 76ms"}
+{"timestamp":"03:12:54.399","source":"Server","level":"LOG","message":"✓ Compiled in 72ms"}
+{"timestamp":"03:12:56.367","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mImage with src \\\"/images/promo-banner.jpg\\\" has \\\"fill\\\" but is missing \\\"sizes\\\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\\u001b[39m\" \"\\u001b[2m(file://C:/Users/other/AppData/Local/Programs/Microsoft VS Code/nexa-talent-hub/.next/dev/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477:13)\\u001b[22m\""}
+{"timestamp":"03:12:56.368","source":"Browser","level":"WARN","message":"\u001b[33mImage with src \"/images/promo-banner.jpg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes\u001b[39m"}
+{"timestamp":"03:12:56.369","source":"Browser","level":"WARN","message":"Image with src \"/images/promo-banner.jpg\" has \"fill\" but is missing \"sizes\" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes"}
+{"timestamp":"03:22:00.212","source":"Server","level":"LOG","message":"✓ Compiled in 65ms"}
+{"timestamp":"03:22:21.801","source":"Server","level":"LOG","message":"✓ Compiled in 62ms"}
+{"timestamp":"03:22:29.765","source":"Server","level":"LOG","message":"✓ Compiled in 90ms"}

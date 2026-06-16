@@ -136,7 +136,7 @@ const vendorsData: Vendor[] = [
     emoji: '🎭',
     tags: ['Dance', 'Choreography', 'Script Writing'],
     // Empty imageUrl shows emoji gradient fallback
-    imageUrl: '',
+    imageUrl: '/images/promo-banner.jpg',
   },
 ];
 
@@ -393,7 +393,7 @@ export default function Home() {
    <AnimatedPromo 
   open={promoOpen} 
   onClose={() => setPromoOpen(false)} 
-  bgImage="/images/celeb_img.jpg.png"
+  bgImage="/images/banner1.jpeg"
 />
 
       <section id="vendors" className="py-20 bg-slate-900/50">
